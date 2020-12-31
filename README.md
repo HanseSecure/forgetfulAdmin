@@ -1,6 +1,8 @@
 # forgetfulAdmin
 Default Credentials in a structured form
 
+This project is maintained by [Florian Hansemann](https://hansesecure.de/)
+
 ## Why
 There are numerous lists of default credentials. But I have not found a updated list that also has information such as manufacturer, version number and the login URL/forms.
 This list is intended to help others to create automated tools for the detection of standard access data.
