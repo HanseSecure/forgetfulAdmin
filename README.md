@@ -1,5 +1,5 @@
 # forgetfulAdmin
-Default Credentials in a structured form
+Default Credentials in a (hopefully ;-) structured form
 
 This project is maintained by [Florian Hansemann](https://hansesecure.de/)
 
