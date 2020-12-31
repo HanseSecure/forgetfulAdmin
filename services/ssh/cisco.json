@@ -1,0 +1,10 @@
+{
+    "Vendor": "Cisco",
+    "Version": "*",
+    "credential_1":{"Username":"cisco",
+    			"Password":"cisco"},
+    "credential_2":{"Name":"pix",
+    			"Password":"cisco"},
+    "Author": "HanseSecure",
+    "Reference": "https://github.com/ztgrace/changeme/blob/master/creds/ssh/cisco.yml"
+}
